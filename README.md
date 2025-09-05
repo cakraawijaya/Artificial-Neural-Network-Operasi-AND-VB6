@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=dotnet&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Artificial-Neural-Network-Operasi-AND-VB6
+# Artificial Neural Network - Operasi AND - VB6
 <strong>Pattern Recognition Final Project</strong><br>
 Artificial Neural Network Based on Visual Basic 6.
 
